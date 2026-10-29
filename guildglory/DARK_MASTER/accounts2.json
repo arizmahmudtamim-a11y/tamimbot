@@ -1,0 +1,98 @@
+[
+  {
+    "uid": "8372054442",
+    "password": "EB3B2A7F69A91CDFA2B2E54294542BB5226542B7CDE343BDC3AA052A31555D0D",
+    "name": "team-l865841",
+    "account_id": "18935555850",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:01"
+  },
+  {
+    "uid": "8372054501",
+    "password": "2EF5EBE208BF915BCA090B3B78017056A695DCAEC6E47838F95C19242DA5EE68",
+    "name": "team-l951003",
+    "account_id": "18935556132",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:02"
+  },
+  {
+    "uid": "8372054476",
+    "password": "D47D32F801812C01CC5CC7EDBF56C977173BDE953DFC38F7245317DE529C7333",
+    "name": "team-l660214",
+    "account_id": "18935556080",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:02"
+  },
+  {
+    "uid": "8372054523",
+    "password": "9FDEDD6DC3A0AA71B554682B412DB51DB53BF34FDD765BD89CCC8BA8CD3108A0",
+    "name": "team-l927366",
+    "account_id": "18935556211",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:02"
+  },
+  {
+    "uid": "8372054546",
+    "password": "FC66FB19BBF4A256D7EC217AB353CB67FD796D18CEB47F3557DA19AE28E15353",
+    "name": "team-l469605",
+    "account_id": "18935556443",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:04"
+  },
+  {
+    "uid": "8372054624",
+    "password": "D902238957D6BE0229E5D7B47FB283F139EDE8FC66CECB77B2F40D4B55F4FEE4",
+    "name": "team-l706214",
+    "account_id": "18935556490",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:04"
+  },
+  {
+    "uid": "8372054534",
+    "password": "C54CD994FCE0891C9F68BD155A86BE3FF4752934EC76C80E5C91CBDB8D544B19",
+    "name": "team-l846878",
+    "account_id": "18935556269",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:04"
+  },
+  {
+    "uid": "8372054590",
+    "password": "4D9C74592921FF1457F32497E2C01EB0A28AA1CF8A49836350F9988E9E5868B1",
+    "name": "team-l781274",
+    "account_id": "18935556580",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:04"
+  },
+  {
+    "uid": "8372054603",
+    "password": "401AA68B30A0260CD8733F9718BFD4B8B982C07960ADE3ED24E246EA9C5B1F0D",
+    "name": "team-l958977",
+    "account_id": "18935556641",
+    "region": "BD",
+    "created_at": "2026-10-29 21:26:04"
+  },
+  {
+    "uid": "8372057117",
+    "password": "DF8784A035EF6770CBC0730826FE97A8213ED68562D6AD4C907A378A7C69CD7D",
+    "name": "team-l391196",
+    "account_id": "18935568185",
+    "region": "BD",
+    "created_at": "2026-10-29 21:27:01"
+  },
+  {
+    "uid": "8372057134",
+    "password": "AF5CE974E6161374A8291F57B63FEBA14A863A1B918BA7502B9673CEE8EE1B81",
+    "name": "team-l059480",
+    "account_id": "18935568190",
+    "region": "BD",
+    "created_at": "2026-10-29 21:27:01"
+  },
+  {
+    "uid": "8372057059",
+    "password": "1BD26473CEBEDC92BE0B158B83D50F7800A8367F4E68BFAEFAE8A2A25E490311",
+    "name": "team-l961147",
+    "account_id": "18935568564",
+    "region": "BD",
+    "created_at": "2026-10-29 21:27:03"
+  }
+]

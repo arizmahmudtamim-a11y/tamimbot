@@ -1,0 +1,42 @@
+[
+  {
+    "uid": "8309026880",
+    "password": "C96ADA37035C00D7624D459AAEA73E9DF2F7E09DC603EA070A32AEA636DEF350",
+    "name": "hyuti4976072",
+    "account_id": "18786852253",
+    "region": "IND",
+    "created_at": "2026-10-18 22:57:54"
+  },
+  {
+    "uid": "8309026893",
+    "password": "4FAD8D0A59E3EA76336FC2A558431B11523BF5E17598B87A310CE2134B8A2AD1",
+    "name": "hyuti5951738",
+    "account_id": "18786852286",
+    "region": "IND",
+    "created_at": "2026-10-18 22:57:54"
+  },
+  {
+    "uid": "8309026904",
+    "password": "DD5360B77E90580EE191F9DAFE7975EA2383DA920899273F3012E41A5D067629",
+    "name": "hyuti2251402",
+    "account_id": "18786852336",
+    "region": "IND",
+    "created_at": "2026-10-18 22:57:54"
+  },
+  {
+    "uid": "8309026927",
+    "password": "5317741369891EBA1CC9C7BC5CF4A9DDFFF5F9BE3C04EBC01374388E391EBCF1",
+    "name": "hyuti3149256",
+    "account_id": "18786852396",
+    "region": "IND",
+    "created_at": "2026-10-18 22:57:54"
+  },
+  {
+    "uid": "8309026945",
+    "password": "1E3261938575C06FC8D0FF2B038459FE88CD2ACE0CEC7DB95D63BE0003C065FD",
+    "name": "hyuti1350231",
+    "account_id": "18786852432",
+    "region": "IND",
+    "created_at": "2026-10-18 22:57:55"
+  }
+]
