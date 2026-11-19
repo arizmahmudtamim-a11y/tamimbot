@@ -1,0 +1,67 @@
+[
+  {
+    "uid": "8471467830",
+    "password": "CDX-YAK9YUFL6TYG8K9YKRG4T8FAB2",
+    "account_id": "19186623056",
+    "name": "SHANTO_1HPGG",
+    "open_id": "f1e6a969d339272e2048d69e1736759e",
+    "access_token": "776a1834ca76d5be02ff4a9b999e799745505e667fbb24e3d1ea5e2d1f03943d",
+    "region": "BD",
+    "online_status": "ONLINE (TCP Bot Active - 5m)",
+    "bio_status": "SUCCESS",
+    "created_at": "2026-11-19 14:33:15",
+    "credit": "SHANTO"
+  },
+  {
+    "uid": "8471467592",
+    "password": "CDX-SVP1WCJYIEWDPA1ZN519T6E1KS",
+    "account_id": "19186623052",
+    "name": "SHANTO_MH6PH",
+    "open_id": "8e1c1a4a0b0371d371cfef38218b9fc4",
+    "access_token": "99a59fb71813ed894f5951cdcfc3b1a2c5696599dc8fccf8dc9bf0e28d58f62b",
+    "region": "BD",
+    "online_status": "ONLINE (TCP Bot Active - 5m)",
+    "bio_status": "SUCCESS",
+    "created_at": "2026-11-19 14:33:15",
+    "credit": "SHANTO"
+  },
+  {
+    "uid": "8471466745",
+    "password": "CDX-52D9622R5HHX50ZSCYXPGRMBLV",
+    "account_id": "19186623057",
+    "name": "SHANTO_0FFIX",
+    "open_id": "43c35657d13653cac6566b223504d7db",
+    "access_token": "6423818ca1193caf3bcf8e1f0ce6fccd4906db6220d18f68927977977ff39d04",
+    "region": "BD",
+    "online_status": "ONLINE (TCP Bot Active - 5m)",
+    "bio_status": "SUCCESS",
+    "created_at": "2026-11-19 14:33:15",
+    "credit": "SHANTO"
+  },
+  {
+    "uid": "8471467858",
+    "password": "CDX-2I46K7PSPBW09HYO2L2UJAT36Q",
+    "account_id": "19186623059",
+    "name": "SHANTO_BI9SR",
+    "open_id": "55b59a6752987ab37b1e828c0d6f7a73",
+    "access_token": "b1acaa5dc3ed25e2cb72689e5cba8d5e697162d90cc9f73489491cc87e7a4169",
+    "region": "BD",
+    "online_status": "ONLINE (TCP Bot Active - 5m)",
+    "bio_status": "SUCCESS",
+    "created_at": "2026-11-19 14:33:15",
+    "credit": "SHANTO"
+  },
+  {
+    "uid": "8471467437",
+    "password": "CDX-0TEO8R2NMPUGK25O2AGG72VYMU",
+    "account_id": "19186623055",
+    "name": "SHANTO_B60LM",
+    "open_id": "cec2ab2eec8329baa97bb75b30804f8a",
+    "access_token": "2858e7970fb053a0f46e10e2a75bc2d851dc11f06a54d73f09146d586611bef6",
+    "region": "BD",
+    "online_status": "ONLINE (TCP Bot Active - 5m)",
+    "bio_status": "SUCCESS",
+    "created_at": "2026-11-19 14:33:15",
+    "credit": "SHANTO"
+  }
+]

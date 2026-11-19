@@ -1,0 +1,12 @@
+  {
+    "uid": "8346970755",
+    "password": "BIJOY__EZVA1_BY_DIVAN_SINGH_SA9J9",
+    "region": "BD",
+    "clan_id": "3106233044"
+  },
+  {
+    "uid": "8346970790",
+    "password": "BIJOY__JG8PG_BY_DIVAN_SINGH_CNEN0",
+    "region": "BD",
+    "clan_id": "3106233044"
+  }
